@@ -1,0 +1,32 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#F5F7FB"/>
+  <rect x="52" y="52" width="796" height="1096" rx="28" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="450" y="125" text-anchor="middle" fill="#1F2937" font-family="Arial, sans-serif" font-size="38" font-weight="700">MeuDiarioAcademico</text>
+
+  <rect x="96" y="180" width="708" height="72" rx="16" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="126" y="225" fill="#7F8C8D" font-family="Arial, sans-serif" font-size="26">Cadastre a disciplina</text>
+  <rect x="696" y="180" width="108" height="72" rx="16" fill="#2563EB"/>
+  <text x="750" y="225" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Add</text>
+
+  <rect x="96" y="292" width="708" height="70" rx="16" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="126" y="334" fill="#374151" font-family="Arial, sans-serif" font-size="24">Mostrar apenas obrigatórias</text>
+  <rect x="714" y="310" width="62" height="34" rx="17" fill="#74B9FF"/>
+  <circle cx="753" cy="327" r="13" fill="#0984E3"/>
+
+  <text x="96" y="410" fill="#111827" font-family="Arial, sans-serif" font-size="30" font-weight="700">Minhas disciplinas</text>
+
+  <rect x="96" y="440" width="708" height="86" rx="18" fill="#F8FAFC" stroke="#E5E7EB"/>
+  <text x="124" y="491" fill="#1F2937" font-family="Arial, sans-serif" font-size="26" font-weight="600">Cálculo I</text>
+  <rect x="628" y="461" width="142" height="36" rx="18" fill="#E0F2FE"/>
+  <text x="699" y="484" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="18" font-weight="700">Obrigatória</text>
+
+  <rect x="96" y="546" width="708" height="86" rx="18" fill="#F8FAFC" stroke="#E5E7EB"/>
+  <text x="124" y="597" fill="#1F2937" font-family="Arial, sans-serif" font-size="26" font-weight="600">Física</text>
+  <rect x="628" y="567" width="142" height="36" rx="18" fill="#E0F2FE"/>
+  <text x="699" y="590" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="18" font-weight="700">Obrigatória</text>
+
+  <rect x="96" y="652" width="708" height="86" rx="18" fill="#F8FAFC" stroke="#E5E7EB"/>
+  <text x="124" y="703" fill="#1F2937" font-family="Arial, sans-serif" font-size="26" font-weight="600">Sociologia</text>
+  <rect x="640" y="673" width="130" height="36" rx="18" fill="#EDE9FE"/>
+  <text x="705" y="696" text-anchor="middle" fill="#4C1D95" font-family="Arial, sans-serif" font-size="18" font-weight="700">Optativa</text>
+</svg>
