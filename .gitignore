@@ -1,0 +1,17 @@
+# Dependências e artefatos locais
+node_modules/
+**/node_modules/
+.expo/
+.expo-shared/
+web-build/
+dist/
+coverage/
+*.log
+
+# Android/iOS nativos locais
+android/
+ios/
+
+# Sistema
+.DS_Store
+Thumbs.db
